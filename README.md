@@ -12,6 +12,12 @@ If you haven't used [Grunt](http://gruntjs.com/) before, be sure to check out th
 
 Coderetreat is a day-long, intensive practice event, focusing on the fundamentals of software development and design. By providing developers the opportunity to take part in focused practice away from the pressures of 'getting things done', the coderetreat format has proven itself to be a highly effective means of skill improvement [more...](http://coderetreat.org/about)
 
+## Installation
+
+```
+$> npm install
+```
+
 ## Usage
 
 This setup assumes usage of pure JavaScript for development, and Jasmine as a testing framework.
