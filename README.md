@@ -14,6 +14,7 @@ Coderetreat is a day-long, intensive practice event, focusing on the fundamental
 
 ## Installation
 
+clone this repo and run
 ```
 $> npm install
 ```
