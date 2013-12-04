@@ -23,6 +23,12 @@ $> npm install
 
 This setup assumes usage of pure JavaScript for development, and Jasmine as a testing framework.
 
+#### jshint && tests
+
+```
+$> grunt
+```
+
 #### server
 
 Starts simple http server as well as watches source files for changes and reruns tests & refreshes page if any.
